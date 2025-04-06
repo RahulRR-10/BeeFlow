@@ -195,5 +195,5 @@ Please ensure your code follows the project's style and includes appropriate tes
 
 <div align="center">
   <p>Made with ❤️ by BeeFlow Team</p>
-  <p>© 2023-2024 BeeFlow</p>
+  <p>© 2024-2025 BeeFlow</p>
 </div>
