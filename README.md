@@ -182,10 +182,6 @@ We welcome contributions to BeeFlow! Please follow these steps:
 
 Please ensure your code follows the project's style and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The Flutter and Dart teams for the amazing framework
