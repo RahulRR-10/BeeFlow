@@ -36,6 +36,8 @@ BeeFlow is a productivity application specifically designed for individuals with
 - Breaking down complex tasks
 - Maintaining motivation
 - Tracking progress effectively
+- Regulates TIme Blindness
+- Manages Dopamine Dysregulation
 
 ## Features
 
