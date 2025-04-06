@@ -189,7 +189,7 @@ Please ensure your code follows the project's style and includes appropriate tes
 - Google Gemini for AI capabilities
 - The ADHD community for inspiration and feedback
 - All contributors who have helped improve BeeFlow
-- Built on the [IDX platform](https://idx.dev) by Anthropic
+- Built on the [IDX platform](https://idx.dev)
 
 ---
 
