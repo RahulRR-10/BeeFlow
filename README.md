@@ -1,7 +1,7 @@
 # 🐝 BeeFlow: Task Management for ADHD
 
 <div align="center">
-  <img src="assets/images/beeflow_logo.png" alt="BeeFlow Logo" width="200"/>
+  <img src="assets/images/logo.jpg" alt="BeeFlow Logo" width="200"/>
   
   <h3><i>Stay in motion through the commotion</i></h3>
   
