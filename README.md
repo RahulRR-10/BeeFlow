@@ -1,6 +1,6 @@
 # 🐝 BeeFlow: Task Management for ADHD
 
-<div align="center">
+
   ![Image](https://github.com/user-attachments/assets/965d8b72-4db8-4e08-8bb9-a0e6182100c8)
   
   <h3><i>Stay in motion through the commotion</i></h3>
@@ -9,7 +9,7 @@
   [![Dart](https://img.shields.io/badge/Dart-3.3.0-blue.svg)](https://dart.dev)
   [![Firebase](https://img.shields.io/badge/Firebase-Latest-orange.svg)](https://firebase.google.com)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-</div>
+
 
 ## Table of Contents
 
