@@ -1,7 +1,7 @@
 # 🐝 BeeFlow: Task Management for ADHD
 
 <div align="center">
-  <img src="assets/images/logo.jpg" alt="BeeFlow Logo" width="200"/>
+  <img src="assets/images/beeflow_logo.png" alt="BeeFlow Logo" width="200"/>
   
   <h3><i>Stay in motion through the commotion</i></h3>
   
@@ -21,8 +21,6 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Privacy](#privacy)
-- [Support](#support)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -36,8 +34,6 @@ BeeFlow is a productivity application specifically designed for individuals with
 - Breaking down complex tasks
 - Maintaining motivation
 - Tracking progress effectively
-- Regulates TIme Blindness
-- Manages Dopamine Dysregulation
 
 ## Features
 
@@ -190,25 +186,6 @@ Please ensure your code follows the project's style and includes appropriate tes
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Privacy
-
-BeeFlow respects user privacy and data security:
-
-- All user data is stored securely in Firebase with appropriate authentication
-- Voice input is processed locally when possible
-- Task data is associated with user accounts and not shared with third parties
-- Users can delete their data at any time through the settings
-
-See our [Privacy Policy](PRIVACY.md) for complete details.
-
-## Support
-
-For support, feature requests, or bug reports:
-
-- Open an issue on GitHub
-- Contact us at support@beeflow.app
-- Join our [Discord community](https://discord.gg/beeflow)
-
 ## Acknowledgments
 
 - The Flutter and Dart teams for the amazing framework
@@ -216,6 +193,7 @@ For support, feature requests, or bug reports:
 - Google Gemini for AI capabilities
 - The ADHD community for inspiration and feedback
 - All contributors who have helped improve BeeFlow
+- Built on the [IDX platform](https://idx.dev) by Anthropic
 
 ---
 
