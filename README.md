@@ -67,11 +67,11 @@ BeeFlow is a productivity application specifically designed for individuals with
 
 ## Screenshots
 
-<div align="center">
-  <img src="assets/screenshots/task_list.png" alt="Task List" width="200"/>
-  <img src="assets/screenshots/focus_mode.png" alt="Focus Mode" width="200"/>
-  <img src="assets/screenshots/progress.png" alt="Progress Screen" width="200"/>
-</div>
+
+  ![Image](https://github.com/user-attachments/assets/ce5d4cfd-a66f-4d1d-821d-a4f1ce0652fb)
+  ![Image](https://github.com/user-attachments/assets/02d8af3e-6100-4aa3-be2a-5d35dbcce9ec)
+  ![Image](https://github.com/user-attachments/assets/731f20bb-309d-48f7-9af7-7a06b56f2663)
+  ![Image](https://github.com/user-attachments/assets/580be326-144a-495d-b5c6-2aeda2915406)
 
 ## Architecture
 
